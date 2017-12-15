@@ -11,7 +11,7 @@ Project North Bear asks participants to step into the DreamTime and allow themse
 <br>
 <hr>
 
-Samuel Bebenek, Duna Al Jaberi, Lamisa Ashiq, Sam Bebenek, Marion Cabiles, Jason Chen, Basma El-Bahnasawy, Nick Erkelenz, Aubrey Garcia, Amanda Guido, Vivien Hung, Kyle Irizawa, Zhuoxuan Li, Paul Liu, Ann Nguyen, __Jeremy Nguyen__, Nam Nguyen, Phuc Pham, Dale Rosen, Colin Ruan, Zach Shron, Raymond Wan
+Duna Al Jaberi, Lamisa Ashiq, Sam Bebenek, Marion Cabiles, Jason Chen, Basma El-Bahnasawy, Nick Erkelenz, Aubrey Garcia, Amanda Guido, Vivien Hung, Kyle Irizawa, Zhuoxuan Li, Paul Liu, Ann Nguyen, __Jeremy Nguyen__, Nam Nguyen, Phuc Pham, Dale Rosen, Colin Ruan, Zach Shron, Raymond Wan
 
 <hr>
 
