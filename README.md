@@ -2,7 +2,7 @@
 
 Video:
 
-<a href="https://www.youtube.com/watch?v=mMEoI5r16hk&t=347s"> <img src="NorthBearPic.png" alt="north bear"> </a>
+> <a href="https://www.youtube.com/watch?v=mMEoI5r16hk&t=347s"> <img src="NorthBearPic.png" alt="north bear"> </a>
 
 The effects of climate change are becoming increasingly difficult to deny. Canada’s Arctic region is warmer than ever previously on record and this is having an undeniable effect on the environment and wildlife of the north. In many legends and mythologies, bear and humans are closely linked, often represented as humans who have transformed into bears and as the keepers of wisdom and teachers.
 <br>
