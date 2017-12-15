@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 8979a604d612a984d94955eb6de5285f
+timeCreated: 1491023402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Belly
+    100002: cluster1Handle
+    100004: cluster2Handle
+    100006: cluster3Handle
+    100008: cluster4Handle
+    100010: cluster5Handle
+    100012: curve1
+    100014: curve2
+    100016: GlobalControl
+    100018: group1
+    100020: group2
+    100022: group3
+    100024: group4
+    100026: group5
+    100028: Head1
+    100030: Head2
+    100032: HeadControl1
+    100034: HeadControl2
+    100036: ikHandle1
+    100038: ikHandle10
+    100040: ikHandle11
+    100042: ikHandle12
+    100044: ikHandle13
+    100046: ikHandle14
+    100048: ikHandle15
+    100050: ikHandle16
+    100052: ikHandle2
+    100054: ikHandle3
+    100056: ikHandle7
+    100058: ikHandle8
+    100060: ikHandle9
+    100062: KneePivot
+    100064: KneePivot_ncl1_1
+    100066: KneePivot_ncl1_2
+    100068: KneePivot_ncl1_3
+    100070: L__Ankle
+    100072: L__BackPalm
+    100074: L__Elbow
+    100076: L__FrontPalm
+    100078: L__Hip
+    100080: L__Knee
+    100082: L__Paw
+    100084: L__Shoulder
+    100086: L__Toe
+    100088: L__Wrist
+    100090: LeftFrontLegControl
+    100092: LeftLegControl
+    100094: LegAndAnkleControl
+    100096: LegAndAnkleControl_ncl1_1
+    100098: LegAndAnkleControl_ncl1_2
+    100100: LegAndAnkleControl_ncl1_3
+    100102: LP_BEAR
+    100104: Mouth
+    100106: Neck
+    100108: NeckControl
+    100110: RAnkle
+    100112: RBackPalm
+    100114: RElbow
+    100116: RFrontPalm
+    100118: RHip
+    100120: RightFrontLegControl
+    100122: RightLegControl
+    100124: RKnee
+    100126: RPaw
+    100128: RShoulder
+    100130: RToe
+    100132: RWrist
+    100134: Skeleton
+    100136: SkeletonControl
+    100138: Spine1
+    100140: Spine2
+    100142: Spine3
+    100144: SpineControl1
+    100146: SpineControl2
+    100148: SpineControl3
+    100150: ToeControl
+    100152: ToeControl_ncl1_1
+    100154: ToeControl_ncl1_2
+    100156: ToeControl_ncl1_3
+    100158: ToePivot
+    100160: ToePivot_ncl1_1
+    100162: ToePivot_ncl1_2
+    100164: ToePivot_ncl1_3
+    100166: //RootNode
+    400000: Belly
+    400002: cluster1Handle
+    400004: cluster2Handle
+    400006: cluster3Handle
+    400008: cluster4Handle
+    400010: cluster5Handle
+    400012: curve1
+    400014: curve2
+    400016: GlobalControl
+    400018: group1
+    400020: group2
+    400022: group3
+    400024: group4
+    400026: group5
+    400028: Head1
+    400030: Head2
+    400032: HeadControl1
+    400034: HeadControl2
+    400036: ikHandle1
+    400038: ikHandle10
+    400040: ikHandle11
+    400042: ikHandle12
+    400044: ikHandle13
+    400046: ikHandle14
+    400048: ikHandle15
+    400050: ikHandle16
+    400052: ikHandle2
+    400054: ikHandle3
+    400056: ikHandle7
+    400058: ikHandle8
+    400060: ikHandle9
+    400062: KneePivot
+    400064: KneePivot_ncl1_1
+    400066: KneePivot_ncl1_2
+    400068: KneePivot_ncl1_3
+    400070: L__Ankle
+    400072: L__BackPalm
+    400074: L__Elbow
+    400076: L__FrontPalm
+    400078: L__Hip
+    400080: L__Knee
+    400082: L__Paw
+    400084: L__Shoulder
+    400086: L__Toe
+    400088: L__Wrist
+    400090: LeftFrontLegControl
+    400092: LeftLegControl
+    400094: LegAndAnkleControl
+    400096: LegAndAnkleControl_ncl1_1
+    400098: LegAndAnkleControl_ncl1_2
+    400100: LegAndAnkleControl_ncl1_3
+    400102: LP_BEAR
+    400104: Mouth
+    400106: Neck
+    400108: NeckControl
+    400110: RAnkle
+    400112: RBackPalm
+    400114: RElbow
+    400116: RFrontPalm
+    400118: RHip
+    400120: RightFrontLegControl
+    400122: RightLegControl
+    400124: RKnee
+    400126: RPaw
+    400128: RShoulder
+    400130: RToe
+    400132: RWrist
+    400134: Skeleton
+    400136: SkeletonControl
+    400138: Spine1
+    400140: Spine2
+    400142: Spine3
+    400144: SpineControl1
+    400146: SpineControl2
+    400148: SpineControl3
+    400150: ToeControl
+    400152: ToeControl_ncl1_1
+    400154: ToeControl_ncl1_2
+    400156: ToeControl_ncl1_3
+    400158: ToePivot
+    400160: ToePivot_ncl1_1
+    400162: ToePivot_ncl1_2
+    400164: ToePivot_ncl1_3
+    400166: //RootNode
+    4300000: LP_BEAR
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: LP_BEAR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: GlobalControl
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2/KneePivot_ncl1_2
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2/KneePivot_ncl1_2/ikHandle7
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2/KneePivot_ncl1_2/ikHandle8
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2/ToeControl_ncl1_2
+        weight: 1
+      - path: GlobalControl/LeftFrontLegControl/ToePivot_ncl1_2/LegAndAnkleControl_ncl1_2/ToeControl_ncl1_2/ikHandle9
+        weight: 1
+      - path: GlobalControl/LeftLegControl
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl/KneePivot
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl/KneePivot/ikHandle1
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl/KneePivot/ikHandle2
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl/ToeControl
+        weight: 1
+      - path: GlobalControl/LeftLegControl/ToePivot/LegAndAnkleControl/ToeControl/ikHandle3
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3/KneePivot_ncl1_3
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3/KneePivot_ncl1_3/ikHandle10
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3/KneePivot_ncl1_3/ikHandle11
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3/ToeControl_ncl1_3
+        weight: 1
+      - path: GlobalControl/RightFrontLegControl/ToePivot_ncl1_3/LegAndAnkleControl_ncl1_3/ToeControl_ncl1_3/ikHandle12
+        weight: 1
+      - path: GlobalControl/RightLegControl
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1/KneePivot_ncl1_1
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1/KneePivot_ncl1_1/ikHandle14
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1/KneePivot_ncl1_1/ikHandle15
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1/ToeControl_ncl1_1
+        weight: 1
+      - path: GlobalControl/RightLegControl/ToePivot_ncl1_1/LegAndAnkleControl_ncl1_1/ToeControl_ncl1_1/ikHandle16
+        weight: 1
+      - path: GlobalControl/Skeleton
+        weight: 1
+      - path: GlobalControl/Skeleton/L__Hip
+        weight: 1
+      - path: GlobalControl/Skeleton/L__Hip/L__Knee
+        weight: 1
+      - path: GlobalControl/Skeleton/L__Hip/L__Knee/L__Ankle
+        weight: 1
+      - path: GlobalControl/Skeleton/L__Hip/L__Knee/L__Ankle/L__BackPalm
+        weight: 1
+      - path: GlobalControl/Skeleton/L__Hip/L__Knee/L__Ankle/L__BackPalm/L__Toe
+        weight: 1
+      - path: GlobalControl/Skeleton/RHip
+        weight: 1
+      - path: GlobalControl/Skeleton/RHip/RKnee
+        weight: 1
+      - path: GlobalControl/Skeleton/RHip/RKnee/RAnkle
+        weight: 1
+      - path: GlobalControl/Skeleton/RHip/RKnee/RAnkle/RBackPalm
+        weight: 1
+      - path: GlobalControl/Skeleton/RHip/RKnee/RAnkle/RBackPalm/RToe
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Belly
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/L__Shoulder
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/L__Shoulder/L__Elbow
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/L__Shoulder/L__Elbow/L__Wrist
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/L__Shoulder/L__Elbow/L__Wrist/L__FrontPalm
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/L__Shoulder/L__Elbow/L__Wrist/L__FrontPalm/L__Paw
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/Neck/Head1
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/Neck/Head1/Head2
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/Neck/Head1/Head2/Mouth
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/RShoulder
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/RShoulder/RElbow
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/RShoulder/RElbow/RWrist
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/RShoulder/RElbow/RWrist/RFrontPalm
+        weight: 1
+      - path: GlobalControl/Skeleton/Spine1/Spine2/Spine3/RShoulder/RElbow/RWrist/RFrontPalm/RPaw
+        weight: 1
+      - path: GlobalControl/SkeletonControl
+        weight: 1
+      - path: GlobalControl/SkeletonControl/group1
+        weight: 1
+      - path: GlobalControl/SkeletonControl/group1/cluster5Handle
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/group2
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/group2/cluster4Handle
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/group3
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/group3/cluster3Handle
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/group4
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/group4/cluster2Handle
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/NeckControl
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/NeckControl/group5
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/NeckControl/group5/cluster1Handle
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/NeckControl/HeadControl1
+        weight: 1
+      - path: GlobalControl/SkeletonControl/SpineControl1/SpineControl2/SpineControl3/NeckControl/HeadControl1/HeadControl2
+        weight: 1
+      - path: ikHandle13
+        weight: 1
+      - path: LP_BEAR
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

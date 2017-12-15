@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 177aa4f763dcc194ea394ffe9609e7f0
+timeCreated: 1488587961
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BIgLand
+    100004: Bone
+    100006: Bone 1
+    100008: Bone 2
+    100010: Bone 3
+    100012: Bone 4
+    100014: Bone 5
+    100016: Bone 6
+    100018: Bone 7
+    100020: Bone 8
+    100022: Bone.001
+    100024: Bone.001 1
+    100026: Bone.001 2
+    100028: Bone.001 3
+    100030: Bone.001 4
+    100032: Bone.001 5
+    100034: Bone.001 6
+    100036: Bone.002
+    100038: Bone.002 1
+    100040: Bone.002 2
+    100042: Bone.002 3
+    100044: Bone.002 4
+    100046: Bone.002 5
+    100048: Bone.002 6
+    100050: Bone.002 7
+    100052: Bone.003
+    100054: Bone.003 1
+    100056: Bone.003 2
+    100058: Bone.003 3
+    100060: Bone.003 4
+    100062: Bone.003 5
+    100064: Bone.003 6
+    100066: Bone.003 7
+    100068: Bone.004
+    100070: Bone.004 1
+    100072: Bone.004 2
+    100074: Bone.004 3
+    100076: Bone.004 4
+    100078: Bone.004 5
+    100080: Bone.004 6
+    100082: Bone.004 7
+    100084: Bone.005
+    100086: Bone.005 1
+    100088: Bone.005 2
+    100090: Bone.005 3
+    100092: Bone.005 4
+    100094: Bone.005 5
+    100096: Bone.005 6
+    100098: Bone.005 7
+    100100: Bone.005_end
+    100102: Bone.005_end 1
+    100104: Bone.005_end 2
+    100106: Bone.005_end 3
+    100108: Bone.005_end 4
+    100110: Bone.005_end 5
+    100112: Bone.006
+    100114: Bone.006 1
+    100116: Bone.006 2
+    100118: Bone.006 3
+    100120: Bone.007
+    100122: Bone.007 1
+    100124: Bone.007 2
+    100126: Bone.007 3
+    100128: Bone.008
+    100130: Bone.008 1
+    100132: Bone.008 2
+    100134: Bone.008 3
+    100136: Bone.008_end
+    100138: Bone.008_end 1
+    100140: Bone.008_end 2
+    100142: Bone.009
+    100144: Bone.009 1
+    100146: Bone.009 2
+    100148: Bone.009 3
+    100150: Bone.009_end
+    100152: Bone.010
+    100154: Bone.010 1
+    100156: Bone.010 2
+    100158: Bone.010 3
+    100160: Bone.011
+    100162: Bone.011 1
+    100164: Bone.011 2
+    100166: Bone.011 3
+    100168: Bone.012
+    100170: Bone.012 1
+    100172: Bone.012 2
+    100174: Bone.012 3
+    100176: Bone.013
+    100178: Bone.013 1
+    100180: Bone.013 2
+    100182: Bone.013 3
+    100184: Bone.014
+    100186: Bone.014 1
+    100188: Bone.014 2
+    100190: Bone.014 3
+    100192: Bone.014 4
+    100194: Bone.014_end
+    100196: Bone.014_end 1
+    100198: Bone.015
+    100200: Bone.015 1
+    100202: Bone.015 2
+    100204: Bone.016
+    100206: Bone.016 1
+    100208: Bone.016 2
+    100210: Bone.016 3
+    100212: Bone.016 4
+    100214: Bone.016_end
+    100216: Bone.017
+    100218: Bone.017 1
+    100220: Bone.017 2
+    100222: Bone.017 3
+    100224: Bone.017 4
+    100226: Bone.017_end
+    100228: Bone.018
+    100230: Bone.018 1
+    100232: Bone.018 2
+    100234: Bone.018 3
+    100236: Bone.018 4
+    100238: Bone.019
+    100240: Bone.019 1
+    100242: Bone.019 2
+    100244: Bone.019 3
+    100246: Bone.019 4
+    100248: Bone.019_end
+    100250: Bone.020
+    100252: Bone.020 1
+    100254: Bone.020 2
+    100256: Bone.020 3
+    100258: Bone.020_end
+    100260: Bone.020_end 1
+    100262: Bone.020_end 2
+    100264: Bone.021
+    100266: Bone.021 1
+    100268: Bone.021 2
+    100270: Bone.021 3
+    100272: Bone.022
+    100274: Bone.022 1
+    100276: Bone.022 2
+    100278: Bone.022 3
+    100280: Bone.022_end
+    100282: Bone.023
+    100284: Bone.023 1
+    100286: Bone.023 2
+    100288: Bone.023_end
+    100290: Bone.023_end 1
+    100292: Bone.023_end 2
+    100294: Bone.024
+    100296: Bone.024 1
+    100298: Bone.024 2
+    100300: Bone.024_end
+    100302: Bone.025
+    100304: Bone.025 1
+    100306: Bone.026
+    100308: Bone.026 1
+    100310: Bone.026_end
+    100312: Bone.026_end 1
+    100314: Camera
+    100316: Cube.000
+    100318: Cube.001
+    100320: Cube.002
+    100322: Cube.004
+    100324: Cube.005
+    100326: Cube.006
+    100328: Cube.007
+    100330: Cube.008
+    100332: Cube.009
+    100334: Cube.010
+    100336: Cube.011
+    100338: Cube.012
+    100340: Cube.013
+    100342: Cube.014
+    100344: Cube.015
+    100346: Cube.016
+    100348: Cube.017
+    100350: Cube.018
+    100352: Fish
+    100354: Fish.001
+    100356: Fish.002
+    100358: Fish.003
+    100360: FloatingIce
+    100362: FloatingIce.001
+    100364: //RootNode
+    100366: IceBergUShape
+    100368: IceBergUshapeBig
+    100370: Lamp
+    100372: LArm
+    100374: LHand
+    100376: LHand.001
+    100378: LHand.001_end
+    100380: LShoulder
+    100382: Neck
+    100384: Ocean
+    100386: Ocean_MeshPart0
+    100388: Ocean_MeshPart1
+    100390: Ocean_MeshPart10
+    100392: Ocean_MeshPart11
+    100394: Ocean_MeshPart12
+    100396: Ocean_MeshPart13
+    100398: Ocean_MeshPart14
+    100400: Ocean_MeshPart15
+    100402: Ocean_MeshPart16
+    100404: Ocean_MeshPart2
+    100406: Ocean_MeshPart3
+    100408: Ocean_MeshPart4
+    100410: Ocean_MeshPart5
+    100412: Ocean_MeshPart6
+    100414: Ocean_MeshPart7
+    100416: Ocean_MeshPart8
+    100418: Ocean_MeshPart9
+    100420: PolarBear:Mesh.000
+    100422: PolarRig
+    100424: RArm
+    100426: RHand
+    100428: RHand.001
+    100430: RHand.001_end
+    100432: Rigging_Fish
+    100434: Rigging_Fish.001
+    100436: Rigging_Fish.002
+    100438: Rigging_Fish.003
+    100440: Rigging_Whale
+    100442: RoundIceBerg
+    100444: RoundIceBerg.001
+    100446: RShoulder
+    100448: Seal
+    100450: Seal.001
+    100452: Seal_RIGGING
+    100454: Seal_RIGGING.001
+    100456: SharpIceBerg
+    100458: SquareIceBerg
+    100460: Tile
+    100462: Whal
+    400000: Armature
+    400002: BIgLand
+    400004: Bone
+    400006: Bone 1
+    400008: Bone 2
+    400010: Bone 3
+    400012: Bone 4
+    400014: Bone 5
+    400016: Bone 6
+    400018: Bone 7
+    400020: Bone 8
+    400022: Bone.001
+    400024: Bone.001 1
+    400026: Bone.001 2
+    400028: Bone.001 3
+    400030: Bone.001 4
+    400032: Bone.001 5
+    400034: Bone.001 6
+    400036: Bone.002
+    400038: Bone.002 1
+    400040: Bone.002 2
+    400042: Bone.002 3
+    400044: Bone.002 4
+    400046: Bone.002 5
+    400048: Bone.002 6
+    400050: Bone.002 7
+    400052: Bone.003
+    400054: Bone.003 1
+    400056: Bone.003 2
+    400058: Bone.003 3
+    400060: Bone.003 4
+    400062: Bone.003 5
+    400064: Bone.003 6
+    400066: Bone.003 7
+    400068: Bone.004
+    400070: Bone.004 1
+    400072: Bone.004 2
+    400074: Bone.004 3
+    400076: Bone.004 4
+    400078: Bone.004 5
+    400080: Bone.004 6
+    400082: Bone.004 7
+    400084: Bone.005
+    400086: Bone.005 1
+    400088: Bone.005 2
+    400090: Bone.005 3
+    400092: Bone.005 4
+    400094: Bone.005 5
+    400096: Bone.005 6
+    400098: Bone.005 7
+    400100: Bone.005_end
+    400102: Bone.005_end 1
+    400104: Bone.005_end 2
+    400106: Bone.005_end 3
+    400108: Bone.005_end 4
+    400110: Bone.005_end 5
+    400112: Bone.006
+    400114: Bone.006 1
+    400116: Bone.006 2
+    400118: Bone.006 3
+    400120: Bone.007
+    400122: Bone.007 1
+    400124: Bone.007 2
+    400126: Bone.007 3
+    400128: Bone.008
+    400130: Bone.008 1
+    400132: Bone.008 2
+    400134: Bone.008 3
+    400136: Bone.008_end
+    400138: Bone.008_end 1
+    400140: Bone.008_end 2
+    400142: Bone.009
+    400144: Bone.009 1
+    400146: Bone.009 2
+    400148: Bone.009 3
+    400150: Bone.009_end
+    400152: Bone.010
+    400154: Bone.010 1
+    400156: Bone.010 2
+    400158: Bone.010 3
+    400160: Bone.011
+    400162: Bone.011 1
+    400164: Bone.011 2
+    400166: Bone.011 3
+    400168: Bone.012
+    400170: Bone.012 1
+    400172: Bone.012 2
+    400174: Bone.012 3
+    400176: Bone.013
+    400178: Bone.013 1
+    400180: Bone.013 2
+    400182: Bone.013 3
+    400184: Bone.014
+    400186: Bone.014 1
+    400188: Bone.014 2
+    400190: Bone.014 3
+    400192: Bone.014 4
+    400194: Bone.014_end
+    400196: Bone.014_end 1
+    400198: Bone.015
+    400200: Bone.015 1
+    400202: Bone.015 2
+    400204: Bone.016
+    400206: Bone.016 1
+    400208: Bone.016 2
+    400210: Bone.016 3
+    400212: Bone.016 4
+    400214: Bone.016_end
+    400216: Bone.017
+    400218: Bone.017 1
+    400220: Bone.017 2
+    400222: Bone.017 3
+    400224: Bone.017 4
+    400226: Bone.017_end
+    400228: Bone.018
+    400230: Bone.018 1
+    400232: Bone.018 2
+    400234: Bone.018 3
+    400236: Bone.018 4
+    400238: Bone.019
+    400240: Bone.019 1
+    400242: Bone.019 2
+    400244: Bone.019 3
+    400246: Bone.019 4
+    400248: Bone.019_end
+    400250: Bone.020
+    400252: Bone.020 1
+    400254: Bone.020 2
+    400256: Bone.020 3
+    400258: Bone.020_end
+    400260: Bone.020_end 1
+    400262: Bone.020_end 2
+    400264: Bone.021
+    400266: Bone.021 1
+    400268: Bone.021 2
+    400270: Bone.021 3
+    400272: Bone.022
+    400274: Bone.022 1
+    400276: Bone.022 2
+    400278: Bone.022 3
+    400280: Bone.022_end
+    400282: Bone.023
+    400284: Bone.023 1
+    400286: Bone.023 2
+    400288: Bone.023_end
+    400290: Bone.023_end 1
+    400292: Bone.023_end 2
+    400294: Bone.024
+    400296: Bone.024 1
+    400298: Bone.024 2
+    400300: Bone.024_end
+    400302: Bone.025
+    400304: Bone.025 1
+    400306: Bone.026
+    400308: Bone.026 1
+    400310: Bone.026_end
+    400312: Bone.026_end 1
+    400314: Camera
+    400316: Cube.000
+    400318: Cube.001
+    400320: Cube.002
+    400322: Cube.004
+    400324: Cube.005
+    400326: Cube.006
+    400328: Cube.007
+    400330: Cube.008
+    400332: Cube.009
+    400334: Cube.010
+    400336: Cube.011
+    400338: Cube.012
+    400340: Cube.013
+    400342: Cube.014
+    400344: Cube.015
+    400346: Cube.016
+    400348: Cube.017
+    400350: Cube.018
+    400352: Fish
+    400354: Fish.001
+    400356: Fish.002
+    400358: Fish.003
+    400360: FloatingIce
+    400362: FloatingIce.001
+    400364: //RootNode
+    400366: IceBergUShape
+    400368: IceBergUshapeBig
+    400370: Lamp
+    400372: LArm
+    400374: LHand
+    400376: LHand.001
+    400378: LHand.001_end
+    400380: LShoulder
+    400382: Neck
+    400384: Ocean
+    400386: Ocean_MeshPart0
+    400388: Ocean_MeshPart1
+    400390: Ocean_MeshPart10
+    400392: Ocean_MeshPart11
+    400394: Ocean_MeshPart12
+    400396: Ocean_MeshPart13
+    400398: Ocean_MeshPart14
+    400400: Ocean_MeshPart15
+    400402: Ocean_MeshPart16
+    400404: Ocean_MeshPart2
+    400406: Ocean_MeshPart3
+    400408: Ocean_MeshPart4
+    400410: Ocean_MeshPart5
+    400412: Ocean_MeshPart6
+    400414: Ocean_MeshPart7
+    400416: Ocean_MeshPart8
+    400418: Ocean_MeshPart9
+    400420: PolarBear:Mesh.000
+    400422: PolarRig
+    400424: RArm
+    400426: RHand
+    400428: RHand.001
+    400430: RHand.001_end
+    400432: Rigging_Fish
+    400434: Rigging_Fish.001
+    400436: Rigging_Fish.002
+    400438: Rigging_Fish.003
+    400440: Rigging_Whale
+    400442: RoundIceBerg
+    400444: RoundIceBerg.001
+    400446: RShoulder
+    400448: Seal
+    400450: Seal.001
+    400452: Seal_RIGGING
+    400454: Seal_RIGGING.001
+    400456: SharpIceBerg
+    400458: SquareIceBerg
+    400460: Tile
+    400462: Whal
+    2300000: BIgLand
+    2300002: Cube.000
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.005
+    2300010: Cube.006
+    2300012: Cube.007
+    2300014: Cube.008
+    2300016: Cube.009
+    2300018: Cube.010
+    2300020: Cube.011
+    2300022: Cube.012
+    2300024: Cube.013
+    2300026: Cube.014
+    2300028: Cube.015
+    2300030: Cube.016
+    2300032: Cube.017
+    2300034: Cube.018
+    2300036: FloatingIce
+    2300038: FloatingIce.001
+    2300040: IceBergUShape
+    2300042: IceBergUshapeBig
+    2300044: Ocean_MeshPart0
+    2300046: Ocean_MeshPart1
+    2300048: Ocean_MeshPart10
+    2300050: Ocean_MeshPart11
+    2300052: Ocean_MeshPart12
+    2300054: Ocean_MeshPart13
+    2300056: Ocean_MeshPart14
+    2300058: Ocean_MeshPart15
+    2300060: Ocean_MeshPart16
+    2300062: Ocean_MeshPart2
+    2300064: Ocean_MeshPart3
+    2300066: Ocean_MeshPart4
+    2300068: Ocean_MeshPart5
+    2300070: Ocean_MeshPart6
+    2300072: Ocean_MeshPart7
+    2300074: Ocean_MeshPart8
+    2300076: Ocean_MeshPart9
+    2300078: RoundIceBerg
+    2300080: RoundIceBerg.001
+    2300082: SharpIceBerg
+    2300084: SquareIceBerg
+    2300086: Tile
+    3300000: BIgLand
+    3300002: Cube.000
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.005
+    3300010: Cube.006
+    3300012: Cube.007
+    3300014: Cube.008
+    3300016: Cube.009
+    3300018: Cube.010
+    3300020: Cube.011
+    3300022: Cube.012
+    3300024: Cube.013
+    3300026: Cube.014
+    3300028: Cube.015
+    3300030: Cube.016
+    3300032: Cube.017
+    3300034: Cube.018
+    3300036: FloatingIce
+    3300038: FloatingIce.001
+    3300040: IceBergUShape
+    3300042: IceBergUshapeBig
+    3300044: Ocean_MeshPart0
+    3300046: Ocean_MeshPart1
+    3300048: Ocean_MeshPart10
+    3300050: Ocean_MeshPart11
+    3300052: Ocean_MeshPart12
+    3300054: Ocean_MeshPart13
+    3300056: Ocean_MeshPart14
+    3300058: Ocean_MeshPart15
+    3300060: Ocean_MeshPart16
+    3300062: Ocean_MeshPart2
+    3300064: Ocean_MeshPart3
+    3300066: Ocean_MeshPart4
+    3300068: Ocean_MeshPart5
+    3300070: Ocean_MeshPart6
+    3300072: Ocean_MeshPart7
+    3300074: Ocean_MeshPart8
+    3300076: Ocean_MeshPart9
+    3300078: RoundIceBerg
+    3300080: RoundIceBerg.001
+    3300082: SharpIceBerg
+    3300084: SquareIceBerg
+    3300086: Tile
+    4300000: Fish.003
+    4300002: Seal.001
+    4300004: Fish.002
+    4300006: FloatingIce.001
+    4300008: Fish.001
+    4300010: RoundIceBerg
+    4300012: Tile
+    4300014: BIgLand
+    4300016: RoundIceBerg.001
+    4300018: FloatingIce
+    4300020: Cube.002
+    4300022: Cube.000
+    4300024: Cube.018
+    4300026: Cube.017
+    4300028: Cube.016
+    4300030: Cube.015
+    4300032: Cube.014
+    4300034: Cube.013
+    4300036: Cube.012
+    4300038: Cube.011
+    4300040: Cube.010
+    4300042: Cube.009
+    4300044: Cube.008
+    4300046: Cube.007
+    4300048: Cube.006
+    4300050: Cube.005
+    4300052: Cube.001
+    4300054: SquareIceBerg
+    4300056: IceBergUshapeBig
+    4300058: IceBergUShape
+    4300060: SharpIceBerg
+    4300062: Ocean_MeshPart0
+    4300064: Ocean_MeshPart1
+    4300066: Ocean_MeshPart2
+    4300068: Ocean_MeshPart3
+    4300070: Ocean_MeshPart4
+    4300072: Ocean_MeshPart5
+    4300074: Ocean_MeshPart6
+    4300076: Ocean_MeshPart7
+    4300078: Ocean_MeshPart8
+    4300080: Ocean_MeshPart9
+    4300082: Ocean_MeshPart10
+    4300084: Ocean_MeshPart11
+    4300086: Ocean_MeshPart12
+    4300088: Ocean_MeshPart13
+    4300090: Ocean_MeshPart14
+    4300092: Ocean_MeshPart15
+    4300094: Ocean_MeshPart16
+    4300096: Seal
+    4300098: Cube.004
+    4300100: Fish
+    4300102: Whal
+    4300104: PolarBear:Mesh.000
+    7400000: Seal_RIGGING.001|ArmatureAction
+    7400002: Seal_RIGGING.001|ArmatureAction.003
+    7400004: Ocean|OceanAction
+    7400006: Seal_RIGGING|ArmatureAction
+    7400008: Seal_RIGGING|ArmatureAction.003
+    7400010: Rigging_Whale|ArmatureAction.001
+    7400012: Rigging_Whale|ArmatureAction.002
+    7400014: Armature|ArmatureAction.002
+    7400016: PolarRig|ArmatureAction.004
+    9500000: //RootNode
+    13700000: Cube.004
+    13700002: Fish
+    13700004: Fish.001
+    13700006: Fish.002
+    13700008: Fish.003
+    13700010: PolarBear:Mesh.000
+    13700012: Seal
+    13700014: Seal.001
+    13700016: Whal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

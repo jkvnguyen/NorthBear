@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: ce880f7456ce6e0428f80abd425cfee8
+timeCreated: 1488588405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_0
+    100004: Bone_014
+    100006: Bone_015
+    100008: Bone_016
+    100010: Bone_017
+    100012: Bone_018
+    100014: Bone_019
+    100016: Bone_020
+    100018: Bone_021
+    100020: Bone_022
+    100022: Bone_023
+    100024: Bone_024
+    100026: Bone_15
+    100028: Bone_16
+    100030: Bone_17
+    100032: Bone_18
+    100034: Bone_19
+    100036: Bone_20
+    100038: Bone_21
+    100040: Bone_22
+    100042: Bone_23
+    100044: Bone_24
+    100046: Bone_25
+    100048: Cube
+    100050: Cube_001
+    100052: Cube_002
+    100054: Cube_003
+    100056: Cube_004
+    100058: Empty
+    100060: LArm
+    100062: LArm_0
+    100064: LHand
+    100066: LHand_0
+    100068: LHand_001
+    100070: LHand_2
+    100072: LP_BEAR_pCube8
+    100074: LShoulder
+    100076: LShoulder_0
+    100078: Neck
+    100080: Neck_0
+    100082: Plane
+    100084: PolarBear_Mesh_000
+    100086: PolarBear_Mesh_001
+    100088: //RootNode
+    100090: PolarRig
+    100092: PolarRigKid
+    100094: RArm
+    100096: RArm_0
+    100098: RHand
+    100100: RHand_0
+    100102: RHand_001
+    100104: RHand_2
+    100106: RShoulder
+    100108: RShoulder_0
+    100110: Sphere
+    400000: Bone
+    400002: Bone_0
+    400004: Bone_014
+    400006: Bone_015
+    400008: Bone_016
+    400010: Bone_017
+    400012: Bone_018
+    400014: Bone_019
+    400016: Bone_020
+    400018: Bone_021
+    400020: Bone_022
+    400022: Bone_023
+    400024: Bone_024
+    400026: Bone_15
+    400028: Bone_16
+    400030: Bone_17
+    400032: Bone_18
+    400034: Bone_19
+    400036: Bone_20
+    400038: Bone_21
+    400040: Bone_22
+    400042: Bone_23
+    400044: Bone_24
+    400046: Bone_25
+    400048: Cube
+    400050: Cube_001
+    400052: Cube_002
+    400054: Cube_003
+    400056: Cube_004
+    400058: Empty
+    400060: LArm
+    400062: LArm_0
+    400064: LHand
+    400066: LHand_0
+    400068: LHand_001
+    400070: LHand_2
+    400072: LP_BEAR_pCube8
+    400074: LShoulder
+    400076: LShoulder_0
+    400078: Neck
+    400080: Neck_0
+    400082: Plane
+    400084: PolarBear_Mesh_000
+    400086: PolarBear_Mesh_001
+    400088: //RootNode
+    400090: PolarRig
+    400092: PolarRigKid
+    400094: RArm
+    400096: RArm_0
+    400098: RHand
+    400100: RHand_0
+    400102: RHand_001
+    400104: RHand_2
+    400106: RShoulder
+    400108: RShoulder_0
+    400110: Sphere
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: LP_BEAR_pCube8
+    2300012: Plane
+    2300014: Sphere
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: LP_BEAR_pCube8
+    3300012: Plane
+    3300014: Sphere
+    4300000: PolarBear_Mesh_001
+    4300002: Plane
+    4300004: PolarBear_Mesh_000
+    4300006: Sphere
+    4300008: Cube_004
+    4300010: Cube_003
+    4300012: Cube_002
+    4300014: Cube_001
+    4300016: Cube
+    4300018: LP_BEAR_pCube8
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: ArmatureAction_002
+    9500000: //RootNode
+    13700000: PolarBear_Mesh_000
+    13700002: PolarBear_Mesh_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
