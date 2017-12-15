@@ -6,18 +6,18 @@ The effects of climate change are becoming increasingly difficult to deny. Canad
 <br>
 
 Project North Bear asks participants to step into the DreamTime and allow themselves to be transformed into this mythological manifestation of Polar Bear and Human as one, interchangeable, and to experience a struggle with a dwindling arctic habitat and to search for solutions through cooperative play and a symbolic rebuilding of the environment around them.
+<br>
+<hr>
+
+Samuel Bebenek, Duna Al Jaberi, Lamisa Ashiq, Sam Bebenek, Marion (Gale) Cabiles, Jason (Yue) Chen, Basma El-Bahnasawy, Nick Erkelenz, Aubrey Garcia, Amanda Guido, Vivien Hung, Kyle Irizawa, Zhuoxuan (Jeff) Li, Paul Liu, Ann Nguyen, __Jeremy Nguyen__, Nam Nguyen, Phuc Pham, Dale Rosen, Colin Ruan, Zach Shron, Raymond Wan
 
 <hr>
 
-Samuel Bebenek, Duna Al Jaberi, Lamisa Ashiq, Sam Bebenek, Marion (Gale) Cabiles, Jason (Yue) Chen, Basma El-Bahnasawy, Nick Erkelenz, Aubrey Garcia, Amanda Guido, Vivien Hung, Kyle Irizawa, Zhuoxuan (Jeff) Li, Paul Liu, Ann Nguyen, Jeremy Nguyen, Nam Nguyen, Phuc Pham, Dale Rosen, Colin Ruan, Zach Shron, Raymond Wan
-
-<hr>
-
-Collaborative Project Development <br>
+__Collaborative Project Development__ <br>
 DATT3700 <br>
 York University - Toronto <br>
 2017 <br>
 
-Showings: <br>
+__Showings:__ <br>
 Digital Media - Arts and Culture 2017. York University, Toronto <br>
 Digital Media Exhibition 2017: Play Palace. Inter/Access Gallery, Toronto <br>
